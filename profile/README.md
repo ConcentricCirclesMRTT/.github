@@ -1,7 +1,3 @@
-下面是一份可以直接用的 README 建议稿。你可以把仓库地址、License 等占位符替换成实际值。
-
----
-
 # Concentric Circles MRTT Codespace
 
 **仝心圆 / MRTT · 工业数据 AI 代码组织**
